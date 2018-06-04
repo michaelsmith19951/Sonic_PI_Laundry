@@ -8,7 +8,7 @@ def wash (temp)
 end
 def dry
   sample :drum_cymbal_hard
-  sleep 1
+  sleep 2
 end
 5.times do
   wear (5)
